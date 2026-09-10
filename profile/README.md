@@ -3,3 +3,5 @@ Luolasto on suomalainen Minecraft-palvelin, mistä löytyy tällä hetkellä hub
 
 Discord-palvelin:
 https://discord.gg/HKA2F6YUGW
+YouTube -kanava:
+https://www.youtube.com/@LuolastoMC
